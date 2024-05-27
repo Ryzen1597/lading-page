@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    height: 70px;
+    background-color: gray;
+    align-items: center;
+    padding: 10px;
+}
+img{
+    height: 50px;
+    align-items: center;
+    margin-right: 10px;
+}
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
